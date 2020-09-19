@@ -18,5 +18,5 @@ From 1922-24, Hartwig designed a series of wooden chess sets, which have now bec
   
   ## Libraries Used :
   
-  - [X] Lighting Effects from __Photon__
-  - [X] 
+  - [X] Lighting Effects from [website]**Photon**(http://photon.attasi.com/)
+  - [X] Moves and Validation from 
