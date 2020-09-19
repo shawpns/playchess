@@ -20,3 +20,20 @@ From 1922-24, Hartwig designed a series of wooden chess sets, which have now bec
   
   - [X] Lighting Effects from [**Photon**](http://photon.attasi.com/)
   - [X] Moves and Validation from [**Chess.js**](https://github.com/jhlywa/chess.js)
+  
+  
+  <h2 align= "center"><b> Project Maintainers</b></h2>
+
+<p align="center">
+<img width=20% src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">&ensp;&ensp;&ensp;
+<img width=20% src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
+
+<a href="https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ">
+<h4 align="center"><b>SHAW</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ"><b>SixlesS</b></h4></a>
+
+
+
+<a href="./LICENSE"><h2 align= "center"><b> License</b></h2></a> 
+<p align="center"><img width=35% src="https://raw.githubusercontent.com/sumitc91/data/master/askgif/hd_241a96d0-7090-4d5f-9a96-02f67a5d5017_guddu_mirzapur_logo.gif"></p>
