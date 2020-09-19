@@ -1,4 +1,4 @@
-<h1 align= "center"><b><h1 align= "center"><b>3d HARTWIG CHESS SET</b></h1>
+<h1 align= "center"><b><h1 align= "center"><b>3D HARTWIG CHESS SET</b></h1>
 
 <h2 align= "center"><b> How to Get Started ?</b></h2>
 <p align="center"><img width=50% src="https://media.giphy.com/media/3FjwOam0L3bcVERzO9/giphy.gif"></p>
