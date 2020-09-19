@@ -10,5 +10,13 @@ From 1922-24, Hartwig designed a series of wooden chess sets, which have now bec
    - [X] the knights are L-shaped.
    
    
-   ## This project is expected to be done in the following phases:
+   ## Project Materials :
+   
+  - [X] HTML5
+  - [X] CSS3
+  - [X] JavaScript
   
+  ## Libraries Used :
+  
+  - [X] Lighting Effects from __Photon__
+  - [X] 
