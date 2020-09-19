@@ -1,5 +1,4 @@
 <p align="center">
- <img width="100px" src="https://i.redd.it/v4qtq7uwnbn01.png" align="center" alt="3D Hartwig Chess Set" />
  <h2 align="center">3D Hartwig Chess Set</h2>
 </p>
 
