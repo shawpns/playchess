@@ -1,4 +1,10 @@
-<h1 align= "center"><b>3D Hartwig Chess Set</b></h1>
+<p align="center">
+ <img width="100px" src="https://raw.githubusercontent.com/shawpns/playchess/master/img/logo.png" align="center" alt="3D Hartwig Chess Set" />
+ <h2 align="center">3D Hartwig Chess Set</h2>
+ <p align="center">Play and Enjoy !</p>
+</p>
+
+
 <a href="https://en.wikipedia.org/wiki/Josef_Hartwig"><b>Josef Hartwig</b></h4></a> designed a series of wooden chess sets, which have now become a famous example of the Bauhaus design sensibilities. All of them feature geometric shapes with a square base---in Model XVI from 1924 the pawns are plain wood cubes.
 
 <h2 align= "center"><b> How to Play ?</b></h2>
