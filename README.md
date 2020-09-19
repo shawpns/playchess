@@ -1,7 +1,6 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/shawpns/playchess/master/img/logo.png" align="center" alt="3D Hartwig Chess Set" />
+ <img width="100px" src="https://i.redd.it/v4qtq7uwnbn01.png" align="center" alt="3D Hartwig Chess Set" />
  <h2 align="center">3D Hartwig Chess Set</h2>
- <p align="center">Play and Enjoy !</p>
 </p>
 
 
